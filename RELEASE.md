@@ -11,10 +11,6 @@
     exsiting C++ kernel `ExtractGlimpse` does not change as well, so saved
     models will not be impacted.
 
-## Bug Fixes and Other Changes
-
-* Mutable tables now restore checkpointed values when loaded from SavedModel.
-
 # Release 2.1.1
 
 ## Bug Fixes and Other Changes
